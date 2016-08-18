@@ -1,0 +1,17 @@
+{
+    "name": "alegreya-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Huerta Tipogr\u00e1fica"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/alegreya-bower.git"
+    },
+    "description": "Alegreya font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
